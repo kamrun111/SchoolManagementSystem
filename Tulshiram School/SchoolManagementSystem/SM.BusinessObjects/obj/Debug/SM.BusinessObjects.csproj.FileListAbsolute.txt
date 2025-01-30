@@ -1,0 +1,95 @@
+F:\StoreManagement\StoreManagement\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+F:\StoreManagement\StoreManagement\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+F:\StoreManagement\StoreManagement\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\StoreManagement\StoreManagement\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+F:\StoreManagement\StoreManagement\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+D:\School Project\StoreManagement\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+D:\School Project\StoreManagement\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+D:\School Project\StoreManagement\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\School Project\StoreManagement\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+D:\School Project\StoreManagement\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+D:\School Project\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+D:\School Project\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+D:\School Project\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\School Project\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+D:\School Project\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+G:\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+G:\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+G:\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+G:\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+G:\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+H:\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+H:\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+H:\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+H:\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+H:\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+F:\Technical School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+F:\Technical School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+F:\Technical School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\Technical School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+F:\Technical School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+F:\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+F:\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+F:\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+F:\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\bin\Debug\SM.BusinessObjects.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BusinessObjects\obj\Debug\SM.BusinessObjects.pdb

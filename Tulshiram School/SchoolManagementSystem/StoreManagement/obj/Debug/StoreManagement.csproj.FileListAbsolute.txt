@@ -1,0 +1,45 @@
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe.config
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\StoreManagement.pdb
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\SM.BLL.dll
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\SM.DAL.dll
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\SM.DAL.pdb
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\SM.BLL.pdb
+F:\StoreManagement\StoreManagement\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.BaseForm.FrmBase.resources
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.FrmChangePassword.resources
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.FrmLogin.resources
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.FrmUserCreation.resources
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.FrmUserGroupCreation.resources
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.MainForm.FrmMain.resources
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Properties.Resources.resources
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.GenerateResource.Cache
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.exe
+F:\StoreManagement\StoreManagement\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\Sharif Framwork\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\Sharif Framwork\StoreManagement\StoreManagement\obj\Debug\StoreManagement.exe
+E:\Sharif Framwork\StoreManagement\StoreManagement\obj\Debug\StoreManagement.pdb
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe.config
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.exe
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.pdb
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\StoreManagement.pdb
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.BLL.dll
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.DAL.dll
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.DAL.pdb
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.BLL.pdb
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.BaseForm.FrmBase.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.FrmChangePassword.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.FrmLogin.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.FrmUserCreation.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Forms.Login.FrmUserGroupCreation.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.MainForm.FrmMain.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.Properties.Resources.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.csproj.GenerateResource.Cache

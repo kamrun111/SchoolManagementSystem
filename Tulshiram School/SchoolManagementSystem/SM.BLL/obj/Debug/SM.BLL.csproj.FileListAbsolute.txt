@@ -1,0 +1,200 @@
+F:\StoreManagement\StoreManagement\SM.BLL\bin\Debug\SM.BLL.dll
+F:\StoreManagement\StoreManagement\SM.BLL\bin\Debug\SM.BLL.pdb
+F:\StoreManagement\StoreManagement\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+F:\StoreManagement\StoreManagement\SM.BLL\bin\Debug\SM.DAL.dll
+F:\StoreManagement\StoreManagement\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\StoreManagement\StoreManagement\SM.BLL\bin\Debug\SM.DAL.pdb
+F:\StoreManagement\StoreManagement\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+F:\StoreManagement\StoreManagement\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\StoreManagement\StoreManagement\SM.BLL\obj\Debug\SM.BLL.dll
+F:\StoreManagement\StoreManagement\SM.BLL\obj\Debug\SM.BLL.pdb
+D:\School Project\StoreManagement\SM.BLL\bin\Debug\SM.BLL.dll
+D:\School Project\StoreManagement\SM.BLL\bin\Debug\SM.BLL.pdb
+D:\School Project\StoreManagement\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+D:\School Project\StoreManagement\SM.BLL\bin\Debug\SM.DAL.dll
+D:\School Project\StoreManagement\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\School Project\StoreManagement\SM.BLL\bin\Debug\SM.DAL.pdb
+D:\School Project\StoreManagement\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+D:\School Project\StoreManagement\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\School Project\StoreManagement\SM.BLL\obj\Debug\SM.BLL.dll
+D:\School Project\StoreManagement\SM.BLL\obj\Debug\SM.BLL.pdb
+D:\School Project\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+D:\School Project\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+D:\School Project\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+D:\School Project\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+D:\School Project\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\School Project\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+D:\School Project\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+D:\School Project\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\School Project\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+D:\School Project\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+G:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+G:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+G:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+G:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+G:\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+G:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+G:\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+G:\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+G:\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\DevelopingSoftware\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+H:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+H:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+H:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+H:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+H:\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+H:\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+H:\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+H:\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+H:\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+F:\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+F:\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+F:\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+F:\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+F:\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+F:\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+F:\Technical School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Technical School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+F:\Technical School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+F:\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\bin\Debug\SM.BusinessObjects.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb

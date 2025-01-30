@@ -1,0 +1,1115 @@
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe.config
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\StoreManagement.exe
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\StoreManagement.pdb
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.BLL.dll
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.DAL.dll
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.DAL.pdb
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.BLL.pdb
+D:\School Project\StoreManagement\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.exe
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\StoreManagement.pdb
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.BaseForm.FrmBase.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+D:\School Project\StoreManagement\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+D:\School Project\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+D:\School Project\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+G:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+G:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\DevelopingSoftware\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+H:\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+H:\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+F:\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+F:\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+C:\Users\Public\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+F:\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\DevelopingSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\SchoolSoftware\Faiyaz School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+E:\DevelopingSoftware\Technical School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\DevelopingSoftware\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\DevelopingSoftware\School Project\Nipendra Narayan School\New folder\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmClassWiseMessage.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\Backup Software\DevelopingSoftware\School Project\Nipendra Narayan School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmClassWiseMessage.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\Backup Software\DevelopingSoftware\School Project\Alodini School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmClassWiseMessage.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmOthersFeesCollection.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmPaymentLegar.resources
+E:\Backup Software\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueList.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueList.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmOthersFeesCollection.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmPaymentLegar.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmClassWiseMessage.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+F:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe.config
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.exe
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\StoreManagement.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.exe
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\StoreManagement.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.DAL.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BusinessObjects.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\bin\Debug\SM.BLL.pdb
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCheaqueEntry.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequePayment.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmChequeReport.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditure.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmCollectionExpenditureReport.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyCollection.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationCollection.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDonationList.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenceHeadEntry.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditureEdit.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmExpenditurePrint.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmMonthlyReport.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncome.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmOthersIncomePrint.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendance.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmAttendanceReport.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendance.FrmSmsSent.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Dashboard.FrmDashboard.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmCombainExamResult.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksAssign.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamMarksEntry.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamReport.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmExamResult.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Exam.FrmSubjectGroupMark.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueFeeCollection.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDueList.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmDuesCollection.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeesCollection.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmFeeSetting.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmInvoiceList.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Accounts.FrmDailyExpenditure.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmOthersFeesCollection.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Fees.FrmPaymentLegar.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Attendence.FrmStudentAttendance.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.BaseForm.FrmBase.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmTeacherAttendance.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmChangePassword.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmDBBackup.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmLogin.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserCreation.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Login.FrmUserGroupCreation.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.FrmStudentAdmission.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmClassWiseMessage.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupCreate.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Message.FrmGroupMessage.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmPromotionClassList.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentPromotion.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Stuff.FrmStuffAdd.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectAssign.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectEntry.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Subject.FrmSubjectSeclection.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmTeacherAdd.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Reports.FrmGenericReportViewer.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentList.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Forms.Students.FrmStudentsAdmission.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.MainForm.FrmMain.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\07022020\DevelopingSoftware\School Project\Tulshiram School\SchoolManagementSystem\StoreManagement\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache

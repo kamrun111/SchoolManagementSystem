@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2153B40D-A7B3-474F-87D3-637F2F07BA8E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SchoolManagementSystem.BLL</RootNamespace>
+    <AssemblyName>SM.BLL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssignClassBLL.cs" />
+    <Compile Include="BankTransationBLL.cs" />
+    <Compile Include="ChequePaymentBLL.cs" />
+    <Compile Include="ClassWiseSubjectBLL.cs" />
+    <Compile Include="ExamCombineResultBLL.cs" />
+    <Compile Include="ExamMarksAssignBLL.cs" />
+    <Compile Include="ExamMarksEntryBLL.cs" />
+    <Compile Include="ExamResultBLL.cs" />
+    <Compile Include="ExpenceBLL.cs" />
+    <Compile Include="ExpenditureBLL.cs" />
+    <Compile Include="ExpenditureOrderBLL.cs" />
+    <Compile Include="FeeCollectionBLL.cs" />
+    <Compile Include="FeeCollectionDetailsBLL.cs" />
+    <Compile Include="FeePaymentBLL.cs" />
+    <Compile Include="FloorBLL.cs" />
+    <Compile Include="FormHelper.cs" />
+    <Compile Include="MessageGroupBLL.cs" />
+    <Compile Include="MessageGroupDetailsBLL.cs" />
+    <Compile Include="ModuleBLL.cs" />
+    <Compile Include="OtherIncomeBLL.cs" />
+    <Compile Include="PermittedFormBLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SettingBLL.cs" />
+    <Compile Include="StudentAdmissionBLL.cs" />
+    <Compile Include="StudentAttendanceBLL.cs" />
+    <Compile Include="StudentBLL.cs" />
+    <Compile Include="StuffAttendanceBLL.cs" />
+    <Compile Include="StuffBLL.cs" />
+    <Compile Include="SubjectAssignBLL.cs" />
+    <Compile Include="SubjectBLL.cs" />
+    <Compile Include="TeacherBLL.cs" />
+    <Compile Include="UserBLL.cs" />
+    <Compile Include="UserGroupBLL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SM.BusinessObjects\SM.BusinessObjects.csproj">
+      <Project>{0A8E15C8-F737-46B1-9722-5152D96CC188}</Project>
+      <Name>SM.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SM.DAL\SM.DAL.csproj">
+      <Project>{6B8ACFE4-B1CF-4122-8C99-D937A3482223}</Project>
+      <Name>SM.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
